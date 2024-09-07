@@ -1,2 +1,3 @@
-# AI-vs-AI
-Detecting Ai-Generated Images
+# AI vs AI: Detecting AI-Generated ImagesDetecting Ai-Generated Images
+
+
