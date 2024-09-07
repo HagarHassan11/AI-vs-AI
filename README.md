@@ -19,15 +19,11 @@
 ## **Dataset**
 > The dataset includes over 2 million real and AI-generated images, sourced from 25 different generators (13 GANs, 7 Diffusion models, and 5 other miscellaneous sources). Additionally, the real images were collected from 8 diverse sources, as shown in the figure. This diversity ensures that the model generalizes well across different image-generation methods and performs robustly in detecting AI-generated images from both known and unseen generators.
 
-<br>
 
 <img src="https://github.com/user-attachments/assets/e5a6ebfa-3842-4a6f-a73c-2050829ea4aa" alt="Real Images Sources" width="500"/>
 
-<br>
-
 <img src="https://github.com/user-attachments/assets/4c0492a6-97cb-44f9-b150-f4aeabaa2cea" alt="Fake Images Generators" width="500"/>
 
-<br>
 
 
 > [!NOTE]
@@ -38,6 +34,6 @@
 Our model incorporates a Capsule Network with feature extraction using parts of the VGG19 architecture. The Capsule Network is selected for its superior performance in preserving spatial hierarchies and providing robust detection capabilities.
 
 Key Features:
-_VGG19 for Feature Extraction: Captures important visual features from the images.
-_Capsule Network: Enhances the model's ability to detect fake images by preserving spatial relationships between features.
+- VGG19 for Feature Extraction: Captures important visual features from the images.
+- Capsule Network: Enhances the model's ability to detect fake images by preserving spatial relationships between features.
 
