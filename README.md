@@ -19,11 +19,16 @@
 ## **Dataset**
 > The dataset includes over 2 million real and AI-generated images, sourced from 25 different generators (13 GANs, 7 Diffusion models, and 5 other miscellaneous sources). Additionally, the real images were collected from 8 diverse sources, as shown in the figure. This diversity ensures that the model generalizes well across different image-generation methods and performs robustly in detecting AI-generated images from both known and unseen generators.
 
-![Alt text](images/example.png)
 
 ![Real Images Sources](https://github.com/user-attachments/assets/e5a6ebfa-3842-4a6f-a73c-2050829ea4aa)
 
 ![Fake Images Generators](https://github.com/user-attachments/assets/4c0492a6-97cb-44f9-b150-f4aeabaa2cea)
+
+
+<img src="https://github.com/user-attachments/assets/e5a6ebfa-3842-4a6f-a73c-2050829ea4aa" alt="Real Images Sources" width="500"/>
+
+<img src="https://github.com/user-attachments/assets/4c0492a6-97cb-44f9-b150-f4aeabaa2cea" alt="Fake Images Generators" width="500"/>
+
 
 
 > [!NOTE]
