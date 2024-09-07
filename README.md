@@ -19,12 +19,15 @@
 ## **Dataset**
 > The dataset includes over 2 million real and AI-generated images, sourced from 25 different generators (13 GANs, 7 Diffusion models, and 5 other miscellaneous sources). This diversity ensures that the model generalizes well across different image-generation methods
 
-## HI
-
 
 > [!NOTE]
 > The Dataset is available on Kaggle [ArtiFact: Real and Fake Image Dataset](https://www.kaggle.com/datasets/awsaf49/artifact-dataset)
 
 
+## **Model Architecture**
+Our model incorporates a Capsule Network with feature extraction using parts of the VGG19 architecture. The Capsule Network is selected for its superior performance in preserving spatial hierarchies and providing robust detection capabilities.
 
+Key Features:
+  _ VGG19 for Feature Extraction: Captures important visual features from the images.
+  _ Capsule Network: Enhances the model's ability to detect fake images by preserving spatial relationships between features.
 
