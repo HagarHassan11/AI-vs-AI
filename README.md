@@ -2,6 +2,7 @@
 ### ***Project Overview***
 This project aims to develop a robust AI model capable of detecting AI-generated images from various sources, including GANs, Diffusion models, and more. With the rise of synthetic media, detecting fake images has become crucial for preserving trust in visual content.
 ## **Demo**
+https://github.com/user-attachments/assets/131e129a-65c4-49da-8cca-8b1bb7e6fe1c
 
 ## **Table of Contents**
 1. [Introduction](#introduction)
@@ -25,7 +26,6 @@ The dataset includes over 2 million real and AI-generated images, sourced from 2
 <img src="https://github.com/user-attachments/assets/e5a6ebfa-3842-4a6f-a73c-2050829ea4aa" alt="Real Images Sources" width="500"/>
 
 
-https://github.com/user-attachments/assets/131e129a-65c4-49da-8cca-8b1bb7e6fe1c
 
 
 <img src="https://github.com/user-attachments/assets/4c0492a6-97cb-44f9-b150-f4aeabaa2cea" alt="Fake Images Generators" width="500"/>
